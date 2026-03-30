@@ -1,6 +1,6 @@
 # 🌍 AI Travel Agent with Microsoft Agent Framework (.NET)
 
-## 📋 Scenario Overview
+## 📋 Scenario Overviewes
 
 This example demonstrates how to build an intelligent travel planning agent using the Microsoft Agent Framework for .NET. The agent can automatically generate personalized day-trip itineraries for random destinations around the world.
 
